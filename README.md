@@ -1,4 +1,4 @@
-# [tucot9.com[(https://tucot9.com) - Developer Portfolio
+# [tucot9.com](https://tucot9.com) - Developer Portfolio
 
 Welcome to **tucot9.com**, the personal portfolio of **TucoT9**, a German developer, AI specialist, and cybersecurity expert. This site showcases my work, from AI-driven tools to cybersecurity projects and automation solutions. I am also a proud member of the elite **T9** group, where I collaborate with some of the brightest minds in the tech industry.
 
