@@ -34,12 +34,6 @@ Users can customize the website's appearance:
 2. Choose new primary and background colors
 3. Toggle sound effects on/off
 
-## 📁 Project Structure
-
-- \`index.html\`: Main HTML file
-- \`README.md\`: This file
-- Assets (images, etc.) are loaded from external sources
-
 ## 🤝 Contributing
 
 Feel free to fork this project and submit pull requests for any enhancements you make. Issues and feature requests are welcome!
@@ -55,8 +49,4 @@ I'm TucoT9, a German Developer, AI Specialist, and Cybersecurity Expert with ove
 ---
 
 Made with ❤️ by TucoT9
-
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Ftucot9.com)](https://tucot9.com)
-[![GitHub last commit](https://img.shields.io/github/last-commit/T9Tuco/portfolio)](https://github.com/T9Tuco/portfolio)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
