@@ -1,49 +1,59 @@
-# TucoT9's Portfolio 🚀
+# TucoT9 Portfolio Website
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Ftucot9.com)](https://tucot9.com)
-[![Security Rating](https://img.shields.io/security-headers?url=https%3A%2F%2Ftucot9.com)](https://tucot9.com)
-[![GitHub last commit](https://img.shields.io/github/last-commit/T9Tuco/portfolio)](https://github.com/T9Tuco/portfolio)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+Welcome to the repository of my personal portfolio website. This project showcases my skills, expertise, and projects in the fields of AI, Cybersecurity, and Ethical Hacking.
 
-> Innovative solutions at the intersection of AI and cybersecurity.
+## 🌟 Features
 
-## 🌟 Overview
-
-Welcome to my portfolio repository! This project showcases my work as a developer, AI specialist, and cybersecurity expert. Since 2022, I've been dedicated to pushing the boundaries of technology through innovative solutions and research.
+- **Responsive Design**: Looks great on both desktop and mobile devices
+- **Interactive UI**: Smooth animations and transitions for a modern feel
+- **Customizable Theme**: Users can change primary colors and background
+- **Sound Effects**: Toggle-able click sounds for an immersive experience
+- **Project Showcase**: Highlighting key projects with brief descriptions
 
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3 (Custom Properties, Flexbox, Grid)
+- CSS3 (with custom properties for theming)
 - JavaScript (ES6+)
-- Intersection Observer API
-- Font Awesome Icons
-- Responsive Design
+- Font Awesome for icons
 
-## 🔥 Features
+## 🚀 Quick Start
 
-- **Modern Design**: Clean and professional interface with smooth animations
-- **Responsive Layout**: Fully responsive design that works on all devices
-- **Dark Theme**: Eye-friendly dark theme with accent colors
-- **Interactive Elements**: Smooth scrolling, hover effects, and modal dialogs
-- **Performance Optimized**: Fast loading times and smooth animations
+1. Clone this repository
+2. Open \`index.html\` in your browser
+3. Explore and enjoy!
 
-## 🚀 Projects
+## 🎨 Customization
 
-### NexusNG
-An advanced AI assistant that revolutionizes daily tasks through natural language processing and machine learning.
-[Visit Project](https://nexusng.site)
+Users can customize the website's appearance:
 
-### SpoofMail
-A specialized tool for sending emails from any domain - designed to help security professionals test and improve email security systems.
-[Visit Project](https://spoofmail.tucot9.com)
+1. Click the ⚡ Settings button
+2. Choose new primary and background colors
+3. Toggle sound effects on/off
 
-### SecureScript
-A platform providing Roblox scripts to help developers enhance and test their anti-cheat systems, improving game security.
-[Visit Project](https://cheat.tucot9.com)
+## 📁 Project Structure
 
-## 📦 Installation
+- \`index.html\`: Main HTML file
+- \`README.md\`: This file
+- Assets (images, etc.) are loaded from external sources
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/T9Tuco/portfolio.git
+## 🤝 Contributing
+
+Feel free to fork this project and submit pull requests for any enhancements you make. Issues and feature requests are welcome!
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 🙋‍♂️ About Me
+
+I'm TucoT9, a German Developer, AI Specialist, and Cybersecurity Expert with over a decade of experience. Connect with me on [GitHub](https://github.com/T9Tuco) or [Discord](https://discord.com/users/718832241127718915).
+
+---
+
+Made with ❤️ by TucoT9
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Ftucot9.com)](https://tucot9.com)
+[![GitHub last commit](https://img.shields.io/github/last-commit/T9Tuco/portfolio)](https://github.com/T9Tuco/portfolio)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
