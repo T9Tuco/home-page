@@ -27,13 +27,6 @@ Welcome to the repository of my personal portfolio website. This project showcas
 2. Open \`index.html\` in your browser
 3. Explore and enjoy!
 
-## 🎨 Customization
-
-Users can customize the website's appearance:
-
-1. Click the ⚡ Settings button
-2. Choose new primary and background colors
-3. Toggle sound effects on/off
 
 ## 🤝 Contributing
 
