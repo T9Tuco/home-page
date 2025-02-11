@@ -4,7 +4,7 @@
 
 
 
-# TucoT9 Portfolio Website gg
+# TucoT9 Portfolio Website 
 
 Welcome to the repository of my personal portfolio website. This project showcases my skills, expertise, and projects in the fields of AI, Cybersecurity, and Ethical Hacking.
 
