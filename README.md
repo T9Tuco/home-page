@@ -1,3 +1,8 @@
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Ftucot9.com)](https://tucot9.com)
+[![GitHub last commit](https://img.shields.io/github/last-commit/T9Tuco/home-page)](https://github.com/T9Tuco/home-page)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+
 # TucoT9 Portfolio Website
 
 Welcome to the repository of my personal portfolio website. This project showcases my skills, expertise, and projects in the fields of AI, Cybersecurity, and Ethical Hacking.
