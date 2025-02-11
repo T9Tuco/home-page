@@ -11,8 +11,6 @@ Welcome to the repository of my personal portfolio website. This project showcas
 
 - **Responsive Design**: Looks great on both desktop and mobile devices
 - **Interactive UI**: Smooth animations and transitions for a modern feel
-- **Customizable Theme**: Users can change primary colors and background
-- **Sound Effects**: Toggle-able click sounds for an immersive experience
 - **Project Showcase**: Highlighting key projects with brief descriptions
 
 ## 🛠️ Technologies Used
